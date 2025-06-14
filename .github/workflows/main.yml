@@ -2,7 +2,7 @@ name: Expense project
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   deploy:
